@@ -1,7 +1,7 @@
 # 🧠 MSCAU-Net
 
 This repository provides the **PyTorch implementation** of the paper:  
-**Multi-Semantic Content-Aware U-Net for Uterine Fibroids and Sarcomas Segmentation**
+**Multi-Semantic Content-Aware U-Net for Uterine Tumors Segmentation**
 
 > 📌 *Code will be released upon paper acceptance.*
 
@@ -9,7 +9,7 @@ This repository provides the **PyTorch implementation** of the paper:
 
 ## 📄 Paper
 
-- **Title**: Multi-Semantic Content-Aware U-Net for Uterine Fibroids and Sarcomas Segmentation  
+- **Title**: Multi-Semantic Content-Aware U-Net for Uterine Tumors Segmentation  
 - **Status**: Under review  
 - **Paper Link**: *Coming soon*
 
